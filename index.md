@@ -14,3 +14,6 @@
 
 ### I dont like that picture. Nami better
 ![Nami One Piece](https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/09/One-Piece-Nami.jpg)
+
+### Actually... Robin > Nami
+![Robin Mommy](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/nico-robin-one-piece-most-underrated.jpg)
