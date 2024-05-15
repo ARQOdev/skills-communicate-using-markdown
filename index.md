@@ -28,3 +28,11 @@ string hello = "Hello";
 string world = "World";
 cout << hello << " " << world << "!";
 ```
+
+## Now Lets see What i learned and what i have to learn
+- [x] Making headers in a `.md` / `.markdown` file
+- [x] Adding images in a `.md` / `.markdown` file
+- [x] Adding a code snippet in a `.md` / `.markdown` file
+- [x] Creating a task lists in a `.md` / `.markdown` file
+- [ ] Whatever `skills-communicate-using-markdown` course has to offer
+
