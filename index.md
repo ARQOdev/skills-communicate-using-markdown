@@ -6,3 +6,11 @@
 ###### Markdown Tutorial
 
 // I learned headers by adding them here! `<h1> </h1>` -> `#`
+
+
+## Now we learn about images xD
+#### Random cat picture they provided
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### I dont like that picture. Nami better
+![Nami One Piece](https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/09/One-Piece-Nami.jpg)
