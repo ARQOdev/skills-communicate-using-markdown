@@ -17,3 +17,14 @@
 
 ### Actually... Robin > Nami
 ![Robin Mommy](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/nico-robin-one-piece-most-underrated.jpg)
+
+
+
+# Now Time for Some Coding
+
+``` C++
+// C++
+string hello = "Hello";
+string world = "World";
+cout << hello << " " << world << "!";
+```
